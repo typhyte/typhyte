@@ -1,5 +1,5 @@
 - Hi, I'm Sammie!
-- Currently studying Cybersecurity at university.
+- Currently studying Cybersecurity at Lander University.
 - This profile is for all of my projects (both personal and school related). Please take a look around!
 
 <!---
