@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Sammie!
+I'm currently studying cybersecurity, and I also like programming in my free time!
+
+I am currently confident in the following languages:
+- Python
+- Java
+
+I am currently learning: 
+- Rust
+
+You'll mainly find projects here from school, and projects I've made in my off time for fun.
