@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Sammie!
-### any pronouns
+## Hi, I'm Sammie! (any pronouns)
 I'm currently studying cybersecurity, and I also like programming in my free time!
 
 I mainly specialize in homelab tools, primarily docker.
