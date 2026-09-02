@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, I'm Sammie!
+### any pronouns
 I'm currently studying cybersecurity, and I also like programming in my free time!
 
-I am currently confident in the following languages:
+I mainly specialize in homelab tools, primarily docker.
+Otherwise, I like learning languages in the off chance that I use them. Currently I'm using:
 - Python
 - Java
-
-I am currently learning: 
-- Rust
+- Go
 
 You'll mainly find projects here from school, and projects I've made in my off time for fun.
